@@ -1,0 +1,4 @@
+#contributor : Olivier Garcia <olivier-nerd.com>
+#name : assertType(...)
+# --
+$this->assertType(${expected}, ${actual})$0;

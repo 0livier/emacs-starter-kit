@@ -7,6 +7,7 @@
                                    'inf-ruby
                                    'js2-mode
                                    'css-mode
+				   'yasnippet-bundle
                                    ;; 'nxml
                                    'gist
                                    'paredit)

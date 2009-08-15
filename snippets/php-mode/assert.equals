@@ -1,0 +1,4 @@
+#contributor : Olivier Garcia <olivier-nerd.com>
+#name : assertEquals(...)
+# --
+$this->assertEquals(${expected}, ${actual})$0;

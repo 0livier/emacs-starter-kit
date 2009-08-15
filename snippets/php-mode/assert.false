@@ -1,0 +1,4 @@
+#contributor : Olivier Garcia <olivier-nerd.com>
+#name : assertFalse(...)
+# --
+$this->assertFalse(${condition})$0;

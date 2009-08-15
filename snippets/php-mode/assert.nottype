@@ -1,0 +1,4 @@
+#contributor : Olivier Garcia <olivier-nerd.com>
+#name : assertNotType(...)
+# --
+$this->assertNotType(${expected}, ${actual})$0;

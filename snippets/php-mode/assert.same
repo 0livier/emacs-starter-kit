@@ -1,0 +1,4 @@
+#contributor : Olivier Garcia <olivier-nerd.com>
+#name : assertSame(...)
+# --
+$this->assertSame(${expected}, ${actual})$0;

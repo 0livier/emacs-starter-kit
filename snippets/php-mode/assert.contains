@@ -1,0 +1,4 @@
+#contributor : Olivier Garcia <olivier-nerd.com>
+#name : assertContains(...)
+# --
+$this->assertContains(${needle}, ${haystack})$0;

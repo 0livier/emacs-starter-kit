@@ -1,0 +1,4 @@
+#contributor : Olivier Garcia <olivier-nerd.com>
+#name : assertNotNull(...)
+# --
+$this->assertNotNull(${variable})$0;
